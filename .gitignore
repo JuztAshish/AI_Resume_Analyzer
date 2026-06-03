@@ -2,3 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+
+# Local environment and database files
+venv/
+*.db
