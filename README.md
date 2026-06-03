@@ -35,7 +35,7 @@ A simple and clean **AI Resume Analyzer** focused on **AI Engineer recruitment**
 | AI Feedback | Google Gemini API / OpenAI API |
 | Database | SQLite |
 | Auth | JWT (python-jose + passlib) |
-
+//For frontend I have not used HTML,CSS & JavaScript to make it fully python based
 ---
 
 ## Project Structure
