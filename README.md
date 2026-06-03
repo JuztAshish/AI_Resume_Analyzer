@@ -228,6 +228,16 @@ Resume (PDF/DOCX)
 
 ---
 
+## Future Improvements
+
+- FAISS Vector Database
+- RAG Pipeline
+- Redis Caching
+- Resume Chatbot
+- Advanced Skill Extraction
+
+---  
+
 ## Troubleshooting
 
 | Issue | Solution |
