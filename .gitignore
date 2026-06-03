@@ -1,13 +1,4 @@
-venv/
+# Minimal ignores only (bytecode caches)
 __pycache__/
 *.py[cod]
-*.db
-.env
-uploads/*
-!uploads/.gitkeep
-*.egg-info/
-dist/
-build/
-.cache/
-models/
-*.zip
+*$py.class
