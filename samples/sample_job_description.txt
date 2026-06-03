@@ -1,0 +1,41 @@
+AI Engineer - Job Description
+================================
+
+Company: TechVision AI Labs
+Location: Remote / Hybrid
+Experience: 2-5 years
+
+About the Role:
+We are looking for a talented AI Engineer to join our machine learning team. You will design, build, and deploy NLP and deep learning models that power our AI-driven products.
+
+Key Responsibilities:
+- Design and implement machine learning and deep learning models for NLP tasks
+- Build and fine-tune transformer-based models (BERT, GPT, LLMs)
+- Develop RAG (Retrieval-Augmented Generation) pipelines using LangChain and vector databases
+- Deploy ML models to production using FastAPI, Docker, and cloud platforms (AWS/GCP)
+- Preprocess and analyze large datasets using Pandas, NumPy, and Spark
+- Collaborate with data scientists and software engineers in an Agile environment
+- Monitor model performance and implement MLOps best practices with MLflow
+
+Required Skills:
+- Strong proficiency in Python and SQL
+- Experience with TensorFlow or PyTorch
+- Knowledge of NLP, transformers, and Hugging Face ecosystem
+- Experience with scikit-learn, Pandas, and NumPy
+- Familiarity with FastAPI or Flask for API development
+- Understanding of Git, CI/CD, and Linux/bash
+- Bachelor's or Master's degree in Computer Science, AI, or related field
+
+Preferred Skills:
+- Experience with LangChain, RAG, and vector databases (FAISS, Pinecone, ChromaDB)
+- Knowledge of MLOps tools (MLflow, Airflow)
+- Experience with cloud platforms (AWS, GCP, or Azure)
+- Familiarity with Docker and Kubernetes
+- Experience with prompt engineering and fine-tuning LLMs
+- Strong understanding of statistics and linear algebra
+
+What We Offer:
+- Competitive salary and equity
+- Remote-friendly culture
+- Learning budget for conferences and courses
+- Opportunity to work on cutting-edge AI products
